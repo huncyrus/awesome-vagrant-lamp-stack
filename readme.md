@@ -172,7 +172,7 @@ env in your browser (by default is ***192.168.33.22***) and in command line.
 
 <a name="license" />
 ### License
- - [MIT License](/master/license.txt)
+ - MIT License
 
 <a name="future" />
 ### Future features
