@@ -172,13 +172,13 @@ env in your browser (by default is ***192.168.33.22***) and in command line.
 
 <a name="license" />
 ### License
- - [MIT License](../blob/master/license.txt)
+ - [MIT License](/master/license.txt)
 
 <a name="future" />
 ### Future features
  - [x] MailCatcher addon
  - [x] xDebug addon with full config (for phpStorm)
- - []nGinx addon
- - []Heroku and other version control, deploy and dev related addon
- - []Postgres and MariaDB addon
+ - [ ]nGinx addon
+ - [ ]Heroku and other version control, deploy and dev related addon
+ - [ ]Postgres and MariaDB addon
  
