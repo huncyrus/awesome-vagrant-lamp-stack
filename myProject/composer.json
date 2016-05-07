@@ -1,0 +1,32 @@
+{
+  "name": "huncyrus/awesomelampstack",
+  "description": "Awesome LAMP stack for vagrantbox. Great development environment for real-world projects by huncyrus",
+  "version": "1.0.0.1",
+  "license": "MIT",
+  "keywords": ["bootstrap", "lamp", "vagrant", "vagrantbox", "devbox", "php"],
+  "homepage": "http://pixeltankstudio.hu",
+  "time": "2015-12-01",
+  "authors": [
+    {
+      "name": "Györk Bakonyi",
+      "email": "cyrus@uw.hu",
+      "homepage": "http://github.com/huncyrus",
+      "role": "Developer"
+    }
+  ],
+  "support": {
+    "email": "cyrus@uw.hu"
+  },
+  "require": {
+    "php": ">=5.5.0"
+  },
+  "suggest": {
+    "monolog/monolog": "Allows more advanced logging of the application flow",
+    "phpunit/phpunit": "Unit testing, unit testing everywhere!"
+  },
+  "autoload": {
+    "psr-4": {
+      "app\\": "app/"
+    }
+  }
+}
